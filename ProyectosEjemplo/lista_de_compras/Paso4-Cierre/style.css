@@ -31,6 +31,8 @@ li {
 
 li span {
 	line-height: 40px;
+	width: 100%;
+	word-wrap: break-word;
 }
 
 li:hover {
