@@ -1,0 +1,28 @@
+body {
+	font-family: "Raleway";
+	text-align: center;
+}
+
+.box {
+	width: 50vw;
+	margin: auto;
+}
+
+h1 {
+	font-size: 100px;
+	font-weight: 400
+}
+
+h2 {
+	font-size: 60px;
+}
+
+h3 {
+	font-size: 30px;
+	font-weight: 900
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: 900
+}

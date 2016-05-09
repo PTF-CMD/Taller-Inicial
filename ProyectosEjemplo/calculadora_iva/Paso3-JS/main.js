@@ -12,7 +12,7 @@ function agregar() {
 
 // Funcion para calcular el total
 function total() {
-	$(".mensaje").html("El total es: $"+total)
+	$(".mensaje").html("El total es: $"+total*1.21)
 	console.log(total*1.21); // Mostramos el total mas su 21%
 }
 
