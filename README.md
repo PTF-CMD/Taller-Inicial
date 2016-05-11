@@ -30,9 +30,9 @@ Cabe destacar que estos son solo algunos de los cientos de editores de texto pla
 
 ## Proyectos de ejemplo
 
-*  [Calculadora de IVA](https://github.com/PTF-CMD/Taller-Inicial/ProyectosEjemplo/Calculadora_IVA)
-*  [Lista de Compras](https://github.com/PTF-CMD/Taller-Inicial/ProyectosEjemplo/Lista_de_compras)
-*  [Piedra, Papel o Tijera](https://github.com/PTF-CMD/Taller-Inicial/ProyectosEjemplo/Piedra_Papel_Tijera)
+*  [Calculadora de IVA](https://github.com/PTF-CMD/Taller-Inicial/ProyectosEjemplo/calculadora_iva)
+*  [Lista de Compras](https://github.com/PTF-CMD/Taller-Inicial/ProyectosEjemplo/lista_de_compras)
+*  [Piedra, Papel o Tijera](https://github.com/PTF-CMD/Taller-Inicial/ProyectosEjemplo/piedra_papel_tijera)
 *  [Reloj](https://github.com/PTF-CMD/Taller-Inicial/ProyectosEjemplo/Reloj)
 
 ## Dudas
