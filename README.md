@@ -28,6 +28,11 @@ Cabe destacar que estos son solo algunos de los cientos de editores de texto pla
 * [Documentación JS - inglés](http://www.w3schools.com/js/default.asp)
 * [Documentación JS - español](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
+## Herramientas útilies
+* [Codepen](http://www.codepen.io) nos permite editar HTML-CSS-JS en el navegador
+* [JS Fiddle](http://www.jsfiddle.net)
+
+
 ## Proyectos de ejemplo
 
 *  [Calculadora de IVA](https://github.com/PTF-CMD/Taller-Inicial/ProyectosEjemplo/calculadora_iva)
